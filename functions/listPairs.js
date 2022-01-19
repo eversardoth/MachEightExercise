@@ -1,4 +1,4 @@
-// The objective of this function is to list the pairs of players given in a website, whose height sum in inches corresponds to an input value.
+// The objective of this function is to list the pairs of players given in a website, whose heights in inches add up to an input value.
 
 const doRequest = require("./doRequest");
 const generatePairs = require("./generatePairs");

@@ -1,4 +1,4 @@
-// The objective of this function is to generate a list of strings, where each string represents a pair of players in a list, whose height sum in inches is equal to an input value.
+// The objective of this function is to generate a list of strings, where each string represents a pair of players in a list, whose heights in inches add up to an input value.
 
 const binarySearch = require("./binarySearch")
 
