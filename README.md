@@ -69,9 +69,9 @@ In order to install and use the application you need to have installed in your s
 
 In order to use the application you need to run the following command inside the repo
    ```sh
-   node app ***IntegerInput***
+   node app **IntegerInput**
    ```
-The application will take the integer input and download the raw data from the website, and print a list of all pairs of players whose height in inches adds up to the integer input to the application. If no matches are found, the application will print "No matches found".
+The application will take the integer input, download the raw data from the website, and print a list of all pairs of players whose height in inches adds up to the integer entered. If no matches are found, the application will print "No matches found".
 
 Additionally, to trigger all unit testing suites you need to run the following command inside the repo
    ```sh
